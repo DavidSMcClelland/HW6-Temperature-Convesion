@@ -1,0 +1,7 @@
+C:\CC7\HW\HW_6_temperature_conversion\obj\Debug\HW_6_temperature_conversion.csprojAssemblyReference.cache
+C:\CC7\HW\HW_6_temperature_conversion\obj\Debug\HW_6_temperature_conversion.csproj.CoreCompileInputs.cache
+C:\CC7\HW\HW_6_temperature_conversion\bin\Debug\HW_6_temperature_conversion.exe.config
+C:\CC7\HW\HW_6_temperature_conversion\bin\Debug\HW_6_temperature_conversion.exe
+C:\CC7\HW\HW_6_temperature_conversion\bin\Debug\HW_6_temperature_conversion.pdb
+C:\CC7\HW\HW_6_temperature_conversion\obj\Debug\HW_6_temperature_conversion.exe
+C:\CC7\HW\HW_6_temperature_conversion\obj\Debug\HW_6_temperature_conversion.pdb
